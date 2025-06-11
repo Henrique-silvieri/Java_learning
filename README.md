@@ -16,12 +16,6 @@ Repositório contendo desde exercícios desenvolvidos para fixar conceitos e apr
 - [Parte 05](./m5_Arrays_(Vetores)) — Arrays (Vetores)
 - [Parte 06](./m6_Matrizes_(Arrays_Multidimensionais)) — Matrizes (Arrays Multidimensionais)
 
-### 🔗 World 2 — Control Structures and Collections
-
-- [Module 07](./m7_Nested_Conditionals) — Nested Conditionals
-- [Module 08](./m8_For_Loop_Structure) - For Loop Structure
-- [Module 09](./m9_While_Loop_Sructure) - While Loop Structure
-
 ---
 
 ## 🚀 Proposta
