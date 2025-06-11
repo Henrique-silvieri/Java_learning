@@ -9,7 +9,7 @@ Repositório contendo desde exercícios desenvolvidos para fixar conceitos e apr
 
 ### 🔗 Módulo 1 — Básico da programção
 
-- [Parte 01](./m1_Fundamentos_Básicos_e_Estruturas_de_Dados_Simples) — Fundamentos Básicos e Estruturas de Dados Simples
+- [Parte 01](./Fundamentos_Básicos_e_Estruturas_de_Dados_Simples) — Fundamentos Básicos e Estruturas de Dados Simples
 - [Parte 02](./m2_Estruturas_Condicionais) — Estruturas Condicionais (Tomada de Decisão)
 - [Parte 03](./m3_Estruturas_de_Repetição) — Estruturas de Repetição (Laços)
 - [Parte 04](./m4_Manipulação_de_Strings) — Manipulação de Strings
