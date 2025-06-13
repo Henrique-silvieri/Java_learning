@@ -1,4 +1,7 @@
-// Exercício 4: Desenvolva um programa que leia dois números inteiros fornecidos pelo usuário e exiba o resultado das quatro operações
+// Exercício 4: Desenvolva um programa que leia dois números inteiros fornecidos pelo usuário e exiba o resultado das
+// quatro operações básicas: adição, subtração, multiplicação e divisão.
+
+package Fundamentos_Básicos_e_Estruturas_de_Dados_Simples;
 
 import java.util.Scanner;
 
